@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://twitter.com/nomanbasar" target="blank"><img src="https://img.shields.io/twitter/follow/nomanbasar?logo=twitter&style=for-the-badge" alt="nomanbasar" /></a> </p>
 
 - 🔭 I’m Django Trainer at [https://www.facebook.com/StudyMart.org](https://www.facebook.com/StudyMart.org)
-- 🔭 I’m Software Engineer (Python) at eAppair Ltd
+- 🔭 I’m a Software Engineer (Python) at eAppair Ltd
+- 🔭 I’m a Backend Developer (Python/Django) at Join Venture AI
 
 - 👯 I’m Web Developer at [https://www.facebook.com/aiquest.org](https://www.facebook.com/aiquest.org)
 
